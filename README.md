@@ -57,7 +57,7 @@ In 2019, March led with the highest profit percentage of 8.59%, followed closely
 
 <h2>Dashboard</h2>
 
-<img src = "Dashboard Image.png" width= "2800px">
+<img src = "Dashboard Image.png" width= "2000px">
 
 
 Click [here](https://docs.google.com/spreadsheets/d/1u1se0wRRIXs0pUQQy5-6zs81Eg1iEZyKuM-Pns78KfA/edit?usp=sharing) to interact with the datasets.
